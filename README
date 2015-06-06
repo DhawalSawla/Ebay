@@ -1,0 +1,1 @@
+Developed a replica of eBay-like site providing displaying, buying, selling, auctioning, bidding, search and other functionality. Provided performance tuning through configuring database connection pooling, optimized queries, data de-normalization, various caching techniques (SQL Caching - Redis server) and browser caching (lazy evaluation)
